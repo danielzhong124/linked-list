@@ -1,3 +1,4 @@
+require_relative 'node'
 
 class LinkedList
   def append(value)
